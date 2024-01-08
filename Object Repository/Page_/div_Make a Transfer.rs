@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Make a Transfer</name>
+   <tag></tag>
+   <elementGuidId>d7de50bd-92f1-4f46-94cd-2a8d854c6f39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#make-a-trans-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='make-a-trans-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83f65b24-9b3b-4b58-9954-3144813d4e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>make-a-trans-btn</value>
+      <webElementGuid>47f2008b-e6de-48bf-ae32-b83d78bc9fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>userCtrl.skeletonLoader? 'qb-skeleton-make-trasfer qb-skeleton': 'qb-white-button' </value>
+      <webElementGuid>9bd5ae10-0de6-4a00-abc2-af95e7116a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>mainCtrl.goToState(&quot;UserHome.FundsTransfer.Stage1&quot;)</value>
+      <webElementGuid>8ab6ee18-da68-47ec-9813-a3cad1ae23cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qb-white-button</value>
+      <webElementGuid>6a7c2c43-c432-4e65-8e23-cc23441159c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Make a Transfer
+                </value>
+      <webElementGuid>13be758b-c626-478f-820d-58f1b3c20b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;make-a-trans-btn&quot;)</value>
+      <webElementGuid>00708cf8-cbc3-4129-aefd-2dbd2ff3aaf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='make-a-trans-btn']</value>
+      <webElementGuid>140f04d5-7af6-4e53-942b-23bf22cf2588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qb-side-div']/div/div[2]</value>
+      <webElementGuid>d956ac6d-00da-4358-bfef-f117cd90d515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay your Bills'])[1]/following::div[1]</value>
+      <webElementGuid>56320440-592a-4323-9d70-7217c1fb185d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29,641.00'])[1]/following::div[4]</value>
+      <webElementGuid>aa3804c8-1a39-454a-be98-f2e0de232839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Accounts'])[1]/preceding::div[1]</value>
+      <webElementGuid>fc898da2-e529-46f3-b86d-2d252fb9cbe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/preceding::div[4]</value>
+      <webElementGuid>7414f057-b831-4f51-812a-5f88300cecd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make a Transfer']/parent::*</value>
+      <webElementGuid>297e8e2e-de0a-47e9-bd33-2dcd5198d5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>55698cfa-d37e-4548-867d-afc78c7fc1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'make-a-trans-btn' and (text() = '
+                    Make a Transfer
+                ' or . = '
+                    Make a Transfer
+                ')]</value>
+      <webElementGuid>34d2db1c-ce63-49e6-8f63-8199e9470bdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

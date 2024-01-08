@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account Activity</name>
+   <tag></tag>
+   <elementGuidId>724f3b3d-e357-4235-a7e6-512fce2d6e17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0fd94c5-ee06-45d6-bcd2-fb6bbf182398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbl-leftnav-item</value>
+      <webElementGuid>20597757-ea18-4d78-ad26-7a6724381b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>mainCtrl.goToState('UserHome.Accounts')</value>
+      <webElementGuid>ba0b2072-5c95-451f-bd96-30b0014fb71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>mainCtrl.isActiveState('UserHome.Accounts') ? 'active': ''</value>
+      <webElementGuid>1615609a-f0d8-4122-9ad5-d433d9ac2a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Activity</value>
+      <webElementGuid>381d1654-b698-4814-ac92-cbc276154c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[@class=&quot;qbl-leftnav-section ng-scope&quot;]/div[@class=&quot;qbl-leftnav-item&quot;]</value>
+      <webElementGuid>04fc909a-8c46-46c2-a008-832d11559aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div/div[3]</value>
+      <webElementGuid>09fe0e39-63b7-4f35-9196-14101e8969d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Summary'])[1]/following::div[1]</value>
+      <webElementGuid>20c4cf6a-9aa0-449d-8544-ed6af5f7139f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNTS'])[1]/following::div[2]</value>
+      <webElementGuid>c6a63d63-7d8d-4a4b-b800-2af578657534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSACTIONS'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b52d398-af61-4ebb-8703-03c01919c55e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquire Transactions'])[1]/preceding::div[2]</value>
+      <webElementGuid>8f4e9770-6168-43a3-960a-4a185d7d7033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account Activity']/parent::*</value>
+      <webElementGuid>55a42113-5770-4bec-9b40-f4bd283bc72e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[3]</value>
+      <webElementGuid>089f2430-f235-46b0-a626-d659af31c5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account Activity' or . = 'Account Activity')]</value>
+      <webElementGuid>f919a064-5c20-40ac-a6ad-185ca60f8c48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

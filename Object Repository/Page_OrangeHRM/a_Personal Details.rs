@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Personal Details</name>
+   <tag></tag>
+   <elementGuidId>4d80c078-9759-4850-a247-3917014fbebd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.orangehrm-tabs-item.--active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>901fd766-8790-4c6f-86d8-c4daca2fb06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-tabs-item --active</value>
+      <webElementGuid>0e354398-7d75-4a8d-b2b8-4cfb36f409c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/pim/viewPersonalDetails/empNumber/7</value>
+      <webElementGuid>ab128cff-3399-4265-be23-7da52dd86973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Details</value>
+      <webElementGuid>a5a8b405-3ea2-4d94-a5ef-2f7543d9f9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-navigation&quot;]/div[@class=&quot;orangehrm-tabs&quot;]/div[@class=&quot;orangehrm-tabs-wrapper&quot;]/a[@class=&quot;orangehrm-tabs-item --active&quot;]</value>
+      <webElementGuid>91be9e1c-4ed1-4a46-8997-8bffbbdb6c43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>e35dd20d-3d3a-42ed-b2d3-5c31e88d2f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Personal Details')]</value>
+      <webElementGuid>2c0eebf8-6ca4-4b88-95d0-209f9cf0a4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>27f1aeae-f0c3-44e7-a995-1a64d06b2a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Contacts'])[1]/preceding::a[2]</value>
+      <webElementGuid>c8d316c5-d79a-4402-a2ce-a4e1e452a914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Personal Details']/parent::*</value>
+      <webElementGuid>84379a1b-c723-4f19-8cf3-510477d461ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/index.php/pim/viewPersonalDetails/empNumber/7')]</value>
+      <webElementGuid>ee9dce98-0a7a-4435-8201-f872f42b1d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>3bffd189-463a-4f51-8592-315fa115e062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/pim/viewPersonalDetails/empNumber/7' and (text() = 'Personal Details' or . = 'Personal Details')]</value>
+      <webElementGuid>0d4d6bc2-d15c-474f-9fde-41accb8a7bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

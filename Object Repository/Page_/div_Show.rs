@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Show</name>
+   <tag></tag>
+   <elementGuidId>a6306c44-532d-46b7-a579-f9cce9b0bf09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='rev-padding']/div)[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e71521b0-9104-41b6-858d-a12a44eea10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qb-showmodal-btn qb-right</value>
+      <webElementGuid>b7cc2af1-ebb2-4fb0-abbc-e448236fe3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>mainCtrl.goToAccount($index)</value>
+      <webElementGuid>e2d5156d-47c0-4894-a41c-ff2d35b8ceb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show</value>
+      <webElementGuid>dd756078-1c41-400d-8f52-4717e1ef0744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qb-info-container&quot;)/div[@id=&quot;qbl-card-sec&quot;]/div[@class=&quot;qb-box-body&quot;]/div[@id=&quot;ac-details&quot;]/div[2]/div[@id=&quot;rev-padding&quot;]/div[@class=&quot;qb-showmodal-btn qb-right&quot;]</value>
+      <webElementGuid>9ac8419d-5ea0-4a6c-ab68-78bb60fd43a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='rev-padding']/div)[8]</value>
+      <webElementGuid>aa05d141-2810-49d7-8999-a0ac8e0b0dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20,164.00'])[1]/following::div[2]</value>
+      <webElementGuid>9dda780f-8cb8-4543-a820-ba5e7eb9c980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::div[4]</value>
+      <webElementGuid>efe57475-f4f4-4097-bac5-536f1dc061ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Activity'])[1]/preceding::div[1]</value>
+      <webElementGuid>f6b25aae-beb4-4005-acca-8ec3216cffb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December'])[1]/preceding::div[2]</value>
+      <webElementGuid>51ca2852-dace-4b2f-9556-342aea9b7fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[6]/div</value>
+      <webElementGuid>1521b3cd-6b85-4147-bc32-710a76febdaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Show' or . = 'Show')]</value>
+      <webElementGuid>b03ce536-9d5e-4952-be80-5e401233dd0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

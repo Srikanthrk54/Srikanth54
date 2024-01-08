@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Link a Credit Card</name>
+   <tag></tag>
+   <elementGuidId>0e5b848c-e27f-460a-9272-952c1cdb9b4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div[3]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09d5a822-8a24-4d53-bd6e-960f42ef2f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbl-leftnav-item</value>
+      <webElementGuid>78f1b2ee-3a57-435a-b769-8e6585cd2e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>mainCtrl.goToState('UserHome.EnrollNewCC.Stage1')</value>
+      <webElementGuid>24fe9c05-4c7d-4608-b5e7-324a0b81fb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>mainCtrl.isActiveState('UserHome.EnrollNewCC') ? 'active': ''</value>
+      <webElementGuid>f1312026-12d1-498e-9f7d-a0a6b3ef831e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link a Credit Card</value>
+      <webElementGuid>92b8a371-7602-4514-9f2d-0d67e65ad422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[@class=&quot;qbl-leftnav-section ng-scope&quot;]/div[@class=&quot;qbl-leftnav-item&quot;]</value>
+      <webElementGuid>30f0a2b6-18a5-4951-9ea7-d6b8be9ce278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div[3]/div[3]</value>
+      <webElementGuid>14cba3ba-d4d7-411d-bf69-52d12d958906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Statements'])[1]/following::div[1]</value>
+      <webElementGuid>99b946f0-747d-4ac3-96c6-5b2fcb9440ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SERVICES'])[1]/following::div[2]</value>
+      <webElementGuid>93d88432-ade9-4538-b09e-28c3bec7f1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Replacement'])[1]/preceding::div[1]</value>
+      <webElementGuid>84167362-9397-48b7-94e5-8feb6dfdbf8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Cheque book'])[1]/preceding::div[2]</value>
+      <webElementGuid>b657ae2d-6778-4145-be43-9d0abb9fe8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link a Credit Card']/parent::*</value>
+      <webElementGuid>8d76018a-5f1b-4c69-80a9-4c0537618f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>33e519f0-6c62-42a8-9acf-22734d8a9b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Link a Credit Card' or . = 'Link a Credit Card')]</value>
+      <webElementGuid>7cc6544f-0aa0-4951-9002-6db04d13cfcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bill Payments</name>
+   <tag></tag>
+   <elementGuidId>ece1550d-17cf-4b4c-bbf2-ac69db7e7c44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de2ed094-f79d-49a6-b63c-03dcc2606a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbl-leftnav-item</value>
+      <webElementGuid>b4767168-3e73-49f9-a8d5-680fde10c87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>mainCtrl.goToState('UserHome.BillPayment.Stage1')</value>
+      <webElementGuid>1dd7e494-eec0-4786-9168-99cd1b7b2aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>mainCtrl.isActiveState('UserHome.BillPayment') ? 'active': ''</value>
+      <webElementGuid>21fa1257-4d38-41e0-8336-a4b31c284b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bill Payments</value>
+      <webElementGuid>123f297d-83b6-49c3-8afd-9649b6b90d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[@class=&quot;qbl-leftnav-section ng-scope&quot;]/div[@class=&quot;qbl-leftnav-item&quot;]</value>
+      <webElementGuid>83b36382-9f62-4640-98df-b42831b2e025</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div[2]/div[4]</value>
+      <webElementGuid>224c9557-b6a3-496c-afe2-782c7ea1660d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fund Transfer'])[1]/following::div[1]</value>
+      <webElementGuid>cf5a2ee9-b0bb-48d5-939d-a6f0d679ba97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquire Transactions'])[1]/following::div[2]</value>
+      <webElementGuid>15e3f4c2-61b0-4dc2-839a-6bca721f32b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SERVICES'])[1]/preceding::div[1]</value>
+      <webElementGuid>c4de0a3f-0108-4dc2-a1c8-b45086fac2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Statements'])[1]/preceding::div[2]</value>
+      <webElementGuid>85fe7d82-03f6-4a89-8635-b544582df1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bill Payments']/parent::*</value>
+      <webElementGuid>342827d2-b0ab-422e-9d66-34a4d5499656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>9c8791b9-ebb6-462d-b8eb-68720a970000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bill Payments' or . = 'Bill Payments')]</value>
+      <webElementGuid>f1d4742d-a39e-4572-aff6-7362f75ebe89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

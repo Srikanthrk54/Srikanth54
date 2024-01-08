@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--                Deposit           _872035</name>
+   <tag></tag>
+   <elementGuidId>8cf7bb5a-60bb-45c4-add9-1c99da490a5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#TransactionType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='TransactionType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>76ffa109-eae5-4147-9752-4c00875f3ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qba-input small</value>
+      <webElementGuid>04ee81b0-718a-40be-810f-00aefde25692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TransactionType</value>
+      <webElementGuid>f5bab318-bc35-47f9-9595-db651c28fcdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                --
+                Deposit
+                Withdrawal
+                Transfer
+                Payment
+                Bill Payment
+                Other
+              </value>
+      <webElementGuid>9a6a4ae1-6cc5-468d-980f-3a16cb6cce37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TransactionType&quot;)</value>
+      <webElementGuid>e73f6c83-ca95-4227-9d55-b534b5164c45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='TransactionType']</value>
+      <webElementGuid>80637a89-2a24-439b-b7b5-b3ad3d442cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='qba-gridBox']/div/div/select</value>
+      <webElementGuid>8b59d624-353f-4d7f-83c0-90647e90061c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[1]/following::select[1]</value>
+      <webElementGuid>2da84597-52f0-49a9-8407-49c02e28f69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Statement'])[1]/following::select[1]</value>
+      <webElementGuid>55977549-2ade-46de-81b7-ea83df1a2c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>694c9ba4-28dd-4de5-aa08-1c0a7b828e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Dates Until'])[1]/preceding::select[2]</value>
+      <webElementGuid>850a7fa0-c2d8-47b6-9e2a-a360b86ef07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>64102a87-f2b1-48cb-a7fc-ea5a80c87722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'TransactionType' and (text() = '
+                --
+                Deposit
+                Withdrawal
+                Transfer
+                Payment
+                Bill Payment
+                Other
+              ' or . = '
+                --
+                Deposit
+                Withdrawal
+                Transfer
+                Payment
+                Bill Payment
+                Other
+              ')]</value>
+      <webElementGuid>8fec678d-bed0-47fb-9c89-86376582f447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

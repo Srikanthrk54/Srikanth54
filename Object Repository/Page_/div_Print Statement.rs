@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Print Statement</name>
+   <tag></tag>
+   <elementGuidId>dd04e120-621a-46be-b08d-f15d76ea5831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#qb-print-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qb-print-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc2ff0ba-b943-4741-af72-a545c37e428a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>qb-print-button</value>
+      <webElementGuid>21cf34d8-3e11-4466-b4d4-a3d3635f3e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qb-white-button</value>
+      <webElementGuid>c29e9ae2-ed57-4a67-8b66-1568ed0a6d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>window.print()</value>
+      <webElementGuid>b70e6cc8-966b-462b-aad4-73ce7c476925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Print Statement
+                    </value>
+      <webElementGuid>271244a8-09bf-4379-a578-1e4362f17425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qb-print-button&quot;)</value>
+      <webElementGuid>9cfc6f10-8c0e-4d66-9913-0213537433fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='qb-print-button']</value>
+      <webElementGuid>08fa16ad-e133-4aae-b546-4dad52f8a37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='print-box']/div</value>
+      <webElementGuid>a35596fc-e3c7-4745-bf2f-f573b313a398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20,164.00'])[1]/following::div[3]</value>
+      <webElementGuid>22f206b3-edfd-483f-bb6a-ff0d4424e745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closing Balance'])[1]/following::div[4]</value>
+      <webElementGuid>412bf4cc-1e48-4bbc-a460-33dc8dab2222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[1]/preceding::div[1]</value>
+      <webElementGuid>a28643d8-5cf7-4b15-9d20-48ff6679f030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Status'])[1]/preceding::div[3]</value>
+      <webElementGuid>b0b48cdd-4b1d-40da-946f-4c6c2b8ae8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Print Statement']/parent::*</value>
+      <webElementGuid>42788db4-705e-40d3-936d-37af5e509272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>8c0cece6-2c94-43eb-bdec-c91a2f8796bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'qb-print-button' and (text() = '
+                        Print Statement
+                    ' or . = '
+                        Print Statement
+                    ')]</value>
+      <webElementGuid>f0da696b-0592-433a-ad03-91133352207e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

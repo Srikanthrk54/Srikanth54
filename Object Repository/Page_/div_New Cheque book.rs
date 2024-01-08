@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Cheque book</name>
+   <tag></tag>
+   <elementGuidId>dff7f35e-f2b9-4d52-969a-5e188e1197e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div[3]/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8541104-1f55-42b5-91a1-29f4d0e604b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbl-leftnav-item</value>
+      <webElementGuid>315e7d8a-e6bc-45c9-a11f-98c3c45dd1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>mainCtrl.isActiveState('UserHome.NewCB') ? 'active': ''</value>
+      <webElementGuid>14d514bc-34f7-4e7a-9586-e8c344187f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Cheque book</value>
+      <webElementGuid>d1abb368-48e8-4865-b6e8-15ee71eab41f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[@class=&quot;qbl-leftnav-section ng-scope&quot;]/div[@class=&quot;qbl-leftnav-item&quot;]</value>
+      <webElementGuid>df109383-d405-42d3-8894-fa0ddf789397</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div[3]/div[5]</value>
+      <webElementGuid>6c3b8617-0061-4350-b4a5-ea59b1f97fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Replacement'])[1]/following::div[1]</value>
+      <webElementGuid>2b77271f-875b-4880-8271-21b07deb255e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link a Credit Card'])[1]/following::div[2]</value>
+      <webElementGuid>8c58ee01-3e75-456b-a9b3-bfb7e515454b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Settings'])[1]/preceding::div[1]</value>
+      <webElementGuid>1a8e4eff-3065-4489-b368-399353d7e035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Profile'])[1]/preceding::div[2]</value>
+      <webElementGuid>deabd9d0-8a96-4fad-b19a-4b43db4b143b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Cheque book']/parent::*</value>
+      <webElementGuid>d851ca0e-26cb-41fb-9fad-c7551915a392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]</value>
+      <webElementGuid>b8e4c410-8b8b-4acb-a491-df973845bef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'New Cheque book' or . = 'New Cheque book')]</value>
+      <webElementGuid>df5c6b36-0926-412b-9844-cc5c37dc2342</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

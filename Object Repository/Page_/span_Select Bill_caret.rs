@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Bill_caret</name>
+   <tag></tag>
+   <elementGuidId>16f247dd-79c6-4936-b958-fdc5118a716f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qdf-fill-box']/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2de2e353-2ccc-4d96-80ea-d6788715a60a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+      <webElementGuid>9243bf21-f7af-4a6a-b7cb-94655a43d88c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qbf-verify-box&quot;)/form[@class=&quot;ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;qdf-fill-box&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn dropdown-toggle qbf-input small ng-binding&quot;]/span[@class=&quot;caret&quot;]</value>
+      <webElementGuid>5f8a5c10-bc45-473b-b92b-ad768436da33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qdf-fill-box']/div[2]/div/a/span</value>
+      <webElementGuid>0df5e907-b336-46f8-99b7-5c43abee6451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>daf77164-5fce-49b6-ab0f-b55e3cbbaccb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

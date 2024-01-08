@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mobile bill</name>
+   <tag></tag>
+   <elementGuidId>1c76495f-a3ad-4d2f-a2f6-9e75fda26a5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qdf-fill-box']/div[2]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3d982a10-ef11-437e-be2e-2ba35aa9a3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>7644776d-7fa3-4cdc-b91d-7f1d3c76291c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile bill</value>
+      <webElementGuid>e8b98056-ff13-4838-a99b-7efdbd071f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qbf-verify-box&quot;)/form[@class=&quot;ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;qdf-fill-box&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;btn-group open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>ddbb1feb-b428-4d92-b112-5f6a60e4308e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qdf-fill-box']/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>f12d205f-b535-41d0-8ebf-05f755f07bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mobile bill')]</value>
+      <webElementGuid>ce2e7a04-bb2c-40b5-aa40-1da6eff24147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrical bill'])[1]/following::a[1]</value>
+      <webElementGuid>f150c16f-8257-4965-9be3-dd771b5ced82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Bill'])[1]/following::a[3]</value>
+      <webElementGuid>ee2c2bbf-f7d9-42a0-9a57-482621fb6d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DTH Bill'])[1]/preceding::a[1]</value>
+      <webElementGuid>f222649c-4c75-4812-a4a0-08cdd16c6779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Amount'])[1]/preceding::a[2]</value>
+      <webElementGuid>97808d23-5917-4de2-87be-eeb6e42c00c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mobile bill']/parent::*</value>
+      <webElementGuid>8f7940c3-c72d-4e6e-b29a-944da3a4ed25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>65f0608c-98cf-4ea8-8258-42f804a16fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Mobile bill' or . = 'Mobile bill')]</value>
+      <webElementGuid>b880426d-17df-4f05-a8e0-f64389ecba98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
